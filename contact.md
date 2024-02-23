@@ -4,7 +4,8 @@ title: contact
 permalink: /contact
 nav: true
 ---
-# Important Info:
+
+###Important Info:
 
 ##Hours
 -Open everyday from noon until 9 pm.
