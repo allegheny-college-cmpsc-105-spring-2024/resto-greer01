@@ -20,7 +20,7 @@ this is the menu
 ### menu item 2
 
 #### French Fries
-- Freshly cut french fries with an option tp be served with chilli and cheese. 
+- Freshly cut french fries with an option to be served with chilli and cheese. 
 -$4.99
 
 ![image local](./assets/images/french-fries-menu.jpg){:width="200"}
