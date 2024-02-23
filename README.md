@@ -18,9 +18,8 @@ After completing this lab, you should be able to:
 - navigate the directory structure in the project
 - contribute to web docs online
 
-## TODOs
 
-Summary of TODOs. Details are below
+Summary of . Details are below
 
 0. in GitHub, go to settings>pages (you can add /settings/pages to the url)
    Under branch, click  `main` and then `save`. Refresh after 30 seconds to get live link!
@@ -108,4 +107,4 @@ you improve your business and why you came to your conclusions.
 ## Before the final submission
 
 - Please check the gatorgrade report in GitHub Actions and resolve
-  any issues, including completing and deleting all TODO markers.
+  any issues, including completing and deleting markers.

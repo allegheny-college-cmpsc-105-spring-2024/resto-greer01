@@ -4,12 +4,13 @@ title: contact
 permalink: /contact
 nav: true
 ---
+# Important Info:
 
 ##Hours
 -Open everyday from noon until 9 pm.
 
 ##Address 
-- 123 Dontgomcdonalds Street, 13450, Madeupville, PA 
+- 123 Dontgotomcdonalds Street, 13450, Madeupville, PA 
 
 ##Phone Number
 - 724-024-0960 

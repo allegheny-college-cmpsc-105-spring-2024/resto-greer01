@@ -3,15 +3,15 @@ layout: post
 title: "about"
 ---
 
-![logo](./assets/images/Hotdog.jpeg){:width="200"}
+![image local](./assets/images/Hotdog.jpeg){:width="200"}
 
 # Logan's HotDogs
 
-## <span style="color:green">Restaurant Description</span>
+## Description
 
 >The best hotdogs in all the land, come on down and try them for yourself! 
 
-## <span style="color:purple">Reviews</span>
+## Reviews
 
 - Phil Sirnamemadeup: "Greatest restaurant in the whole world!"
 
