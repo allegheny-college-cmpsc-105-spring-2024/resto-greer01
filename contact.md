@@ -5,6 +5,16 @@ permalink: /contact
 nav: true
 ---
 
-- TODO: fill in fake contact information for the business
-- TODO: create heading for `Hours`
-- Optional: perhaps fake address, hours, phone, reservation instructions...
+##Hours
+-Open everyday from noon until 9 pm.
+
+##Address 
+- 123 Dontgomcdonalds Street, 13450, Madeupville, PA 
+
+##Phone Number
+- 724-024-0960 
+
+##Reservations
+- No need to make reservations here, come on in anytime!
+
+
