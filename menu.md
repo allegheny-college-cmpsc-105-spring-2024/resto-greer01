@@ -15,7 +15,7 @@ this is the menu
 - served with any condiments and add ons that you'd like. 
 -$1.99/each
 
-![image local](./assets/images/hotdog-menu.jpeg){:width="200"}
+![image local](./assets/images/hotdog-menu.jpg){:width="200"}
 
 ### menu item 2
 
@@ -23,4 +23,4 @@ this is the menu
 - Freshly cut french fries with an option tp be served with chilli and cheese. 
 -$4.99
 
-![image local](./assets/images/french-fries-menu.jpeg){:width="200"}
+![image local](./assets/images/french-fries-menu.jpg){:width="200"}

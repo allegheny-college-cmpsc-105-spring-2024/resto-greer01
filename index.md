@@ -3,7 +3,7 @@ layout: post
 title: "about"
 ---
 
-![image local](./assets/images/Hotdog.jpeg){:width="200"}
+![image local](./assets/images/Hotdog.jpg){:width="200"}
 
 # Logan's HotDogs
 
