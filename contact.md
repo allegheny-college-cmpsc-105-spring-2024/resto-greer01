@@ -7,7 +7,7 @@ nav: true
 
 ###Important Info:
 
-##Hours
+#Hours
 -Open everyday from noon until 9 pm.
 
 ##Address 

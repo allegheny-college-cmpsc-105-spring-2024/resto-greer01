@@ -13,6 +13,6 @@ title: "Description"
 
 ## Reviews
 
-- Phil Sirnamemadeup: "Greatest restaurant in the whole world!"
+> Phil Sirnamemadeup: "Greatest restaurant in the whole world!"
 
-- Drew Fakelastname: "I have never had such amazing service anywhere else!"
+> Drew Fakelastname: "I have never had such amazing service anywhere else!"
