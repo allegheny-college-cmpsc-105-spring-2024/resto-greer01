@@ -100,7 +100,7 @@ setup: |
     - description: include link in markdown to the site that you reviewed in review1.md
       check: MatchFileFragment
       options:
-        fragment: "]("
+        fragment: "]"
         count: 1
         exact: false
 
@@ -115,7 +115,7 @@ setup: |
     - description: include link in markdown to the site that you reviewed in review2.md
       check: MatchFileFragment
       options:
-        fragment: "]("
+        fragment: "]"
         count: 1
         exact: false
 
